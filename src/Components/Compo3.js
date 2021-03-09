@@ -52,6 +52,7 @@ function Compo3(props) {
             
           })
           setcolorpass()
+          setcolor()
           setinfo(()=>{
             return{
               fname:"",
